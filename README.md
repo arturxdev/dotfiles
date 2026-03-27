@@ -4,4 +4,3 @@
 
 ```bash
 ln -sf ~/dotfiles/claude/statusline.sh .claude/statusline.sh
-```
